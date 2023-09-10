@@ -1908,16 +1908,6 @@ body .white {
   display: none;
 }
 
-.header__logo-mobile {
-  display: none;
-  position: relative;
-  z-index: 5;
-}
-
-.touch .header__logo-mobile {
-  display: block;
-}
-
 .header__menu {
   display: -webkit-box;
   display: -ms-flexbox;
